@@ -52,7 +52,7 @@ I enjoy collaborating on projects involving Flutter, Python, React, or Web Devel
 
 🌱 Current Projects
 
-Greendot – An SOS & community assistance mobile app.  
+Greendot –"I am currently developing GreenDot, an AI-powered Flutter mobile application that provides small-scale farmers with instant plant disease diagnosis and real-time market price intelligence for 5 Telangana markets, all delivered via a 13-language interface."  
 
 Portfolio & GitHub Projects – Full list of my development projects.
 
