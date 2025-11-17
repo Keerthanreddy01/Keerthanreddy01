@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/keerthan-reddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/_keerthan_176"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/c/krixeee"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/14FSD9_U5v-yq8Nc8c9fDonjAQZUZuXdG/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
