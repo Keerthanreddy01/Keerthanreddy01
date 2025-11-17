@@ -36,7 +36,7 @@
 |------------|----------------|---------------|
 | 🌿 **Greendot** | AI-driven agri-assist app for farmers | Flutter • Firebase • TensorFlow |
 | 💼 **Portfolio** | Interactive dev portfolio with motion design | Flutter Web • GSAP |
-| ☁️ **Weatherly** | Real-time global weather forecasting | Flutter • OpenWeather API |
+| ☁️ **Weatherly** | Real-Time global weather forecasting | Flutter • OpenWeather API |
 
 🔗 Explore more → [**Keerthan’s GitHub Projects**](https://github.com/keerthanreddy01)
 
