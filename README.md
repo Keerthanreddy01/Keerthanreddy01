@@ -2,7 +2,7 @@
 <h3 align="center">💡 Frontend & Mobile App Developer • Crafting Smart, Human-Centric Digital Products 🚀</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/keerthan-reddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/keerthan-reddy-71a5b5370/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/_keerthan_176"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/14FSD9_U5v-yq8Nc8c9fDonjAQZUZuXdG/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
