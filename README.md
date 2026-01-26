@@ -56,6 +56,7 @@ Currently leading development on **Vaani**, a multilingual AI assistant supporti
 
 - 🎤 **Vaani** – AI multilingual voice assistant with NLP capabilities
 - 🌿 **Greendot** – AI-powered agritech platform for smart farming
+- 📝 **Fillora** – Intelligent form-filling assistant with multi-language support
 - 🧠 **AI + UX Personalization** – adaptive app flows and user experiences
 - 🎨 **Portfolio 2025** – animated Flutter web experience with cutting-edge design
 - 🚀 **Open Source Contributions** – giving back to the developer community
@@ -81,9 +82,15 @@ Currently leading development on **Vaani**, a multilingual AI assistant supporti
     </td>
     <td align="center" width="300">
       <img src="https://media.giphy.com/media/l0HlQ7LRal0vZ3GdG/giphy.gif" width="100%"/>
-      <br><br><strong>☁️ Weatherly</strong><br>
-      <em>Real-Time Weather App</em><br>
-      <sub>Flutter • API Integration • UI/UX</sub>
+      <br><br><strong>📝 Fillora</strong><br>
+      <em>AI Form-Filling Assistant</em><br>
+      <sub>Flutter • AI • Multi-language • UX</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left">
+      <br>
+      <strong>📝 Fillora.in</strong> is a revolutionary AI-powered mobile application that transforms the tedious process of form filling into a seamless, intelligent experience. Built with Flutter, Fillora helps users complete forms in seconds instead of minutes, with multi-language support and a compassionate, user-centric design.
     </td>
   </tr>
 </table>
@@ -100,10 +107,6 @@ Currently leading development on **Vaani**, a multilingual AI assistant supporti
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keerthanreddy01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanreddy01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthanreddy01&bg_color=1a1b27&color=00bfa6&line=00bfa6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
@@ -229,6 +232,4 @@ Feel free to reach out if you want to build something amazing together!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
-  
-  <sub>⭐️ From [keerthanreddy01](https://github.com/keerthanreddy01) | Made with ❤️ and Flutter</sub>
 </div>
