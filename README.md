@@ -29,9 +29,8 @@
 
 I'm a **Full Stack Software Engineer** who loves building products from the ground up. I obsess over the details — from the sub-pixel smoothness of a React animation to the micro-latency of an AI inference pipeline.
 
-- 🏗️ Currently building **CollabSphere** — AI-powered dev team discovery.
+- 🏗️ Currently building **CollabSphere** — AI dev squad discovery.
 - 🧠 Researching **Agentic UI** and real-time voice intelligence.
-- ⚡ Fun fact: I believe high-quality UX is a competitive advantage.
 - 🎯 Always looking for **innovative teams** to build the future with.
 
 <br clear="right"/>
@@ -44,30 +43,24 @@ I'm a **Full Stack Software Engineer** who loves building products from the grou
 
 | 🏙️ CollabSphere | 🎙️ Vaani AI |
 | :--- | :--- |
-| **The OS for Builders** | **Multilingual Intelligence** |
-| <b>The Hard Part:</b> Custom embedding-based matching engine. profiles are vectorized and ranked by availability heuristics ($<$200ms). | <b>The Hard Part:</b> Optimizing STT $\rightarrow$ LLM $\rightarrow$ TTS pipeline to stay below 300ms with complex intent layers. |
-| <b>The Result:</b> 🚀 <b>65% reduction</b> in discovery friction. | <b>The Result:</b> 🎯 <b>94% intent accuracy</b> across 13 dialects. |
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YybWp6NXU1bmZjZGNxdnExZzE0eGxxeXJ6eHV6eHV6eHV6eHV6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" /> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YybWp6NXU1bmZjZGNxdnExZzE0eGxxeXJ6eHV6eHV6eHV6eHV6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="300" /> |
-| `React Native` `LangChain` `PostgreSQL` | `FastAPI` `Whisper` `Claude 3.5` |
+| <img src="https://img.shields.io/badge/STATUS-PRODUCTION-00BFA6?style=flat-square" /> <br/> <br/> 🔹 **Matching Engine** v2.0 <br/> 🔹 **Vector Search** indexing <br/> 🔹 **Real-time** team formation <br/> <br/> <img src="https://img.shields.io/badge/RESULT-65%25_FASTER-FF0055?style=for-the-badge" /> <br/> <br/> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YybWp6NXU1bmZjZGNxdnExZzE0eGxxeXJ6eHV6eHV6eHV6eHV6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" /> <br/> `React Native` `LangChain` `Postgres` | <img src="https://img.shields.io/badge/STATUS-BETA-6366F1?style=flat-square" /> <br/> <br/> 🔹 **Zero-Latency** STT/TTS <br/> 🔹 **13+ Indian** Dialects <br/> 🔹 **94% Accuracy** context AI <br/> <br/> <img src="https://img.shields.io/badge/RESULT-94%25_ACCURACY-00BFA6?style=for-the-badge" /> <br/> <br/> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YybWp6NXU1bmZjZGNxdnExZzE0eGxxeXJ6eHV6eHV6eHV6eHV6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="300" /> <br/> `FastAPI` `Whisper` `Claude 3.5` |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technological Arsenal
 
 <div align="center">
 
-| Ecosystem | Technologies |
-| :--- | :--- |
-| 🎨 **Frontend** | React 19 · Next.js · TypeScript · TailwindCSS · Framer Motion |
-| ⚙️ **Backend** | Node.js · FastAPI · Django · Prisma · PostgreSQL · Redis |
-| 🤖 **AI / ML** | LangChain · Agentic Flows · PyTorch · RAG · Pinecone |
-| ☁️ **DevOps** | AWS · Docker · Kubernetes · Vercel · GH Actions |
+| 🎨 Frontend | ⚙️ Backend | 🤖 Intelligence |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,framer" /> | <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,prisma,aws" /> | <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,langchain,docker" /> |
+| `60fps UI` | `Scalable APIs` | `LLM Pipeline` |
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,python,fastapi,aws,docker,figma,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ps,xd,postman,linux,vscode,git&theme=dark" />
 
 </div>
 
@@ -92,6 +85,12 @@ I'm a **Full Stack Software Engineer** who loves building products from the grou
 
 [![Email Me](https://img.shields.io/badge/keerthanreddy1706@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthanreddy1706@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthan-reddy-71a5b5370/)
+
+<br/>
+
+### 💖 Thank you for visiting!
+
+<img src="https://komarev.com/ghpvc/?username=keerthanreddy01&color=6366F1&style=flat-square&label=PROFILE+VIEWS" />
 
 <br/>
 
