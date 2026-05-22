@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,30,45&height=180&section=header&text=Keerthan%20Reddy&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20Architect&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,100:6366F1&height=180&section=header&text=Keerthan%20Reddy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Engineer%20•%20AI%20Systems%20Architect&descAlignY=72&descSize=20&descColor=cbd5e1" width="100%"/>
 
-</div>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+intelligent+digital+products;React+19+%7C+Next.js+%7C+TypeScript;AI+Agentic+Flows+%7C+LLM+Pipelines;Performance-first+engineering;From+pixel+to+pipeline"
+    alt="Typing SVG"
+  />
+</a>
 
-<div align="center">
+<br/>
 
 ### I architect high-performance, intelligent digital products.
 
@@ -18,13 +23,6 @@
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Z0ozROL__mbRGcLyyodNUl0oWKKTdoFY/view?usp=sharing)
 
 </div>
-
----
-
-<div align="center">
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=keerthanreddy01&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=9CA3AF&bg_color=0d1117"/>
-</div>
-
 ## 👋 About Me
 
 I'm a **Full Stack Software Engineer** who loves building products from the ground up. I obsess over the details — from the sub-pixel smoothness of a React animation to the micro-latency of an AI inference pipeline.
