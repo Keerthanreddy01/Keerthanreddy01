@@ -23,6 +23,13 @@
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Z0ozROL__mbRGcLyyodNUl0oWKKTdoFY/view?usp=sharing)
 
 </div>
+
+---
+
+<div align="center">
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=keerthanreddy01&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=9CA3AF&bg_color=0d1117"/>
+</div>
+
 ## 👋 About Me
 
 I'm a **Full Stack Software Engineer** who loves building products from the ground up. I obsess over the details — from the sub-pixel smoothness of a React animation to the micro-latency of an AI inference pipeline.
@@ -75,6 +82,10 @@ I'm a **Full Stack Software Engineer** who loves building products from the grou
 ## 📊 Developer Insight
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=keerthanreddy01&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" width="100%"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthanreddy01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanreddy01&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=9CA3AF&bg_color=0d1117&langs_count=8" width="48%"/>
