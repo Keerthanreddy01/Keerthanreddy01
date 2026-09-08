@@ -26,7 +26,7 @@ Branch out. Merge greatness.
 <br>
 
 <p>
-<a href="https://keerthareddy.vercel.app/">
+<a href="https://keerthanreddy.me">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
@@ -38,7 +38,7 @@ Branch out. Merge greatness.
 </p>
 
 <p>
-<a href="mailto:keerthanreddy1706@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=keerthanreddy1706@gmail.com&su=Hello%20Keerthan&body=Hi%20Keerthan%2C%0A%0A">
   <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
@@ -223,13 +223,19 @@ AI projects and development work.
 
 <p align="center">
 
-<a href="mailto:keerthanreddy1706@gmail.com">Gmail</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=keerthanreddy1706@gmail.com&su=Hello%20Keerthan&body=Hi%20Keerthan%2C%0A%0A">
+Gmail
+</a>
 &nbsp; · &nbsp;
 
-<a href="https://www.linkedin.com/in/keerthan-reddy-71a5b5370/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/keerthan-reddy-71a5b5370/">
+LinkedIn
+</a>
 &nbsp; · &nbsp;
 
-<a href="https://keerthareddy.vercel.app/">Portfolio</a>
+<a href="https://keerthanreddy.me">
+Portfolio
+</a>
 
 </p>
 
