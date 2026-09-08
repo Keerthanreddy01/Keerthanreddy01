@@ -34,7 +34,7 @@
 
 I'm a **Full Stack Software Engineer** who loves building products from the ground up. I obsess over the details — from the sub-pixel smoothness of a React animation to the micro-latency of an AI inference pipeline.
 
-- 🏗️ Currently building **CollabSphere** — AI dev squad discovery.
+- 🏗️ Currently building **Squibl** — AI dev squad discovery.
 - 🧠 Researching **Agentic UI** and real-time voice intelligence.
 - 🎯 Always looking for **innovative teams** to build the future with.
 
@@ -46,11 +46,11 @@ I'm a **Full Stack Software Engineer** who loves building products from the grou
 
 <div align="center">
 
-| 🏙️ CollabSphere | 🎙️ Vaani AI | 🌱 Greendot |
+| 🏙️ Squibl | 🎙️ Vaani AI | 🌱 Greendot |
 | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/STATUS-LIVE-00BFA6?style=flat-square" /> | <img src="https://img.shields.io/badge/STATUS-BETA-6366F1?style=flat-square" /> | <img src="https://img.shields.io/badge/STATUS-DEV-FF6F00?style=flat-square" /> |
 | <br/> **A elite incubator for builders.**<br/>Sync your GitHub Arsenal to find<br/>the perfect squad and ship high-<br/>impact projects without friction. | <br/> **Neural Voice Intelligence.**<br/>Bridging linguistic gaps for<br/>13+ Indian dialects with context-<br/>aware, ultra low-latency AI. | <br/> **Smart Farm Assistant.**<br/>Empowering farmers with AI-driven<br/>disease detection and real-time<br/>market insights for efficient growth. |
-| <br/> [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthanreddy01/collabsphere-web) | <br/> [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthanreddy01/Vaani) | <br/> [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthanreddy01/Greendot) |
+| <br/> [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthanreddy01/squibl) | <br/> [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthanreddy01/Vaani) | <br/> [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthanreddy01/Greendot) |
 | <br/> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YybWp6NXU1bmZjZGNxdnExZzE0eGxxeXJ6eHV6eHV6eHV6eHV6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="150" /> | <br/> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YybWp6NXU1bmZjZGNxdnExZzE0eGxxeXJ6eHV6eHV6eHV6eHV6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="300" height="150" /> | <br/> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzgyaHQwZTVkdzJpbnVycnkzOHh4aDR2MnF4NXpkNG1ka21tdmVseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300" height="150" /> |
 | <br/> `Next.js` `React 19` `Firebase` | <br/> `FastAPI` `Claude 3.5` `Neural` | <br/> `Flutter` `TensorFlow` `Sheets` |
 
