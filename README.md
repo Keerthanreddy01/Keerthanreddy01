@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,100:6366F1&height=180&section=header&text=Keerthan%20Reddy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Engineer%20•%20AI%20Systems%20Architect&descAlignY=72&descSize=20&descColor=cbd5e1" width="100%"/>
+<img src="https://res.cloudinary.com/aovh9hgj/image/upload/f_auto,q_auto/banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img
