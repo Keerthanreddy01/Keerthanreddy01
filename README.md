@@ -1,116 +1,238 @@
 <div align="center">
-
-<img src="https://res.cloudinary.com/aovh9hgj/image/upload/f_auto,q_auto/banner" width="100%"/>
-
-<a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+intelligent+digital+products;React+19+%7C+Next.js+%7C+TypeScript;AI+Agentic+Flows+%7C+LLM+Pipelines;Performance-first+engineering;From+pixel+to+pipeline"
-    alt="Typing SVG"
+    src="https://res.cloudinary.com/aovh9hgj/image/upload/f_auto,q_auto/banner"
+    width="100%"
   />
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td valign="top" width="35%">
+
+<h2>Keerthan Reddy</h2>
+
+<p>
+Full Stack Developer<br>
+Building <b>Squibl</b>
+</p>
+
+<p>
+Branch out. Merge greatness.
+</p>
+
+<br>
+
+<p>
+<a href="https://keerthareddy.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/keerthan-reddy-71a5b5370/">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
+<p>
+<a href="mailto:keerthanreddy1706@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
+<p>
+<a href="https://drive.google.com/file/d/1Z0ozROL__mbRGcLyyodNUl0oWKKTdoFY/view?usp=sharing">
+  <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=googledrive&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<td valign="top" width="65%">
+
+<h3>Hey there! I'm Keerthan 👋</h3>
+
+<p>
+<b>Full Stack Developer · Generative AI Enthusiast</b>
+</p>
+
+<p>
+I'm based in Hyderabad and passionate about crafting
+user-first web and mobile experiences and building
+efficient, automated workflows.
+</p>
+
+<p>
+Currently, I'm focusing my energy on building
+<b>Squibl</b>, an AI dev squad discovery platform,
+and <b>Greendot</b>, an AI-powered farming assistant.
+</p>
+
+<p>
+My technical playground revolves around
+<b>React, Next.js, TypeScript, Firebase</b>,
+and <b>AI agentic workflows</b>.
+</p>
+
+<br>
+
+<a href="https://github.com/Keerthanreddy01/squibl">
+  <img src="https://img.shields.io/badge/SQUIBL-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br/>
+&nbsp;
 
-### I architect high-performance, intelligent digital products.
+<a href="https://github.com/Keerthanreddy01">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-**React 19 Core · Next.js · TypeScript · AI Agentic Flows · Node.js**
+</td>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthan-reddy-71a5b5370/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_keerthan_176/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthanreddy1706@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Z0ozROL__mbRGcLyyodNUl0oWKKTdoFY/view?usp=sharing)
-
-</div>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=keerthanreddy01&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=9CA3AF&bg_color=0d1117"/>
-</div>
+## 🚀 Featured Projects
 
-## 👋 About Me
+<table width="100%">
+<tr>
 
-I'm a **Full Stack Software Engineer** who loves building products from the ground up. I obsess over the details — from the sub-pixel smoothness of a React animation to the micro-latency of an AI inference pipeline.
+<td width="50%" valign="top">
 
-- 🏗️ Currently building **Squibl** — AI dev squad discovery.
-- 🧠 Researching **Agentic UI** and real-time voice intelligence.
-- 🎯 Always looking for **innovative teams** to build the future with.
+<h3>🧩 Squibl</h3>
 
-<br clear="right"/>
+<p>
+An elite incubator for builders. Sync your GitHub
+arsenal to find the perfect squad and ship
+high-impact projects without friction.
+</p>
+
+<p>
+<code>Next.js</code>
+<code>React 19</code>
+<code>Firebase</code>
+</p>
+
+<a href="https://github.com/Keerthanreddy01/squibl">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎙️ Vaani AI</h3>
+
+<p>
+Neural voice intelligence bridging linguistic gaps
+for 13+ Indian dialects with context-aware,
+ultra-low-latency AI.
+</p>
+
+<p>
+<code>FastAPI</code>
+<code>Claude AI</code>
+<code>Neural AI</code>
+</p>
+
+<a href="https://github.com/Keerthanreddy01/Vaani">
+View Project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌱 Greendot</h3>
+
+<p>
+Smart farm assistant empowering farmers with
+AI-driven disease detection and real-time
+market insights.
+</p>
+
+<p>
+<code>Flutter</code>
+<code>TensorFlow</code>
+<code>Google Sheets</code>
+</p>
+
+<a href="https://github.com/Keerthanreddy01/Greendot">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚡ More Projects</h3>
+
+<p>
+Explore my repositories, experiments,
+AI projects and development work.
+</p>
+
+<a href="https://github.com/Keerthanreddy01?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🚀 Flagship Projects
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-| 🏙️ Squibl | 🎙️ Vaani AI | 🌱 Greendot |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/STATUS-LIVE-00BFA6?style=flat-square" /> | <img src="https://img.shields.io/badge/STATUS-BETA-6366F1?style=flat-square" /> | <img src="https://img.shields.io/badge/STATUS-DEV-FF6F00?style=flat-square" /> |
-| <br/> **A elite incubator for builders.**<br/>Sync your GitHub Arsenal to find<br/>the perfect squad and ship high-<br/>impact projects without friction. | <br/> **Neural Voice Intelligence.**<br/>Bridging linguistic gaps for<br/>13+ Indian dialects with context-<br/>aware, ultra low-latency AI. | <br/> **Smart Farm Assistant.**<br/>Empowering farmers with AI-driven<br/>disease detection and real-time<br/>market insights for efficient growth. |
-| <br/> [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthanreddy01/squibl) | <br/> [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthanreddy01/Vaani) | <br/> [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthanreddy01/Greendot) |
-| <br/> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YybWp6NXU1bmZjZGNxdnExZzE0eGxxeXJ6eHV6eHV6eHV6eHV6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="150" /> | <br/> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YybWp6NXU1bmZjZGNxdnExZzE0eGxxeXJ6eHV6eHV6eHV6eHV6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="300" height="150" /> | <br/> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzgyaHQwZTVkdzJpbnVycnkzOHh4aDR2MnF4NXpkNG1ka21tdmVseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300" height="150" /> |
-| <br/> `Next.js` `React 19` `Firebase` | <br/> `FastAPI` `Claude 3.5` `Neural` | <br/> `Flutter` `TensorFlow` `Sheets` |
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,fastapi,firebase,flutter,tensorflow,git,github,vercel&theme=dark">
 
-<br/>
-
-### 🔍 [Explore 12+ other innovative repositories →](https://github.com/Keerthanreddy01?tab=repositories)
-
-</div>
+</p>
 
 ---
 
-## 🛠️ Technological Arsenal
+## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
 
-| 🎨 Frontend | ⚙️ Backend | 🤖 Intelligence |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,framer" /> | <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,prisma,aws" /> | <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,langchain,docker" /> |
-| `60fps UI` | `Scalable APIs` | `LLM Pipeline` |
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Keerthanreddy01&show_icons=true&hide_border=true&theme=transparent"
+/>
 
-<br/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=figma,ps,xd,postman,linux,vscode,git&theme=dark" />
+<p align="center">
 
-</div>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthanreddy01&hide_border=true&theme=transparent"
+/>
 
----
-
-## 📊 Developer Insight
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=keerthanreddy01&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthanreddy01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanreddy01&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=9CA3AF&bg_color=0d1117&langs_count=8" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthanreddy01&bg_color=0d1117&color=6366F1&line=6366F1&point=ffffff&area=true&area_color=6366F120&hide_border=true&custom_title=My+Coding+Momentum" width="98%"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## 📩 Let's Connect
+<a href="mailto:keerthanreddy1706@gmail.com">Gmail</a>
+&nbsp; · &nbsp;
 
-[![Email Me](https://img.shields.io/badge/keerthanreddy1706@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthanreddy1706@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthan-reddy-71a5b5370/)
+<a href="https://www.linkedin.com/in/keerthan-reddy-71a5b5370/">LinkedIn</a>
+&nbsp; · &nbsp;
 
-<br/>
+<a href="https://keerthareddy.vercel.app/">Portfolio</a>
 
-### 💖 Thank you for visiting!
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=keerthanreddy01&color=6366F1&style=flat-square&label=PROFILE+VIEWS" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,30,45&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+<i>Branch out. Merge greatness. 🚀</i>
+</p>
