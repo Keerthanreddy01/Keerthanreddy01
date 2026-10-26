@@ -67,17 +67,23 @@ efficient, automated workflows.
 
 <p>
 Currently, I'm focusing my energy on building
-<b>Squibl</b>, an AI dev squad discovery platform,
-and <b>Greendot</b>, an AI-powered farming assistant.
+<b>Veyro</b>, a full-stack learning management system,
+and <b>Squibl</b>, an AI dev squad discovery platform.
 </p>
 
 <p>
 My technical playground revolves around
-<b>React, Next.js, TypeScript, Firebase</b>,
+<b>React, Next.js, TypeScript, Node.js, MongoDB, Firebase</b>,
 and <b>AI agentic workflows</b>.
 </p>
 
 <br>
+
+<a href="https://veyro-sandy.vercel.app">
+  <img src="https://img.shields.io/badge/VEYRO-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+&nbsp;
 
 <a href="https://github.com/Keerthanreddy01/squibl">
   <img src="https://img.shields.io/badge/SQUIBL-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -101,6 +107,39 @@ and <b>AI agentic workflows</b>.
 <table width="100%">
 <tr>
 
+<td colspan="2" valign="top">
+
+<h3>🎓 Veyro LMS</h3>
+
+<p>
+A full-stack Learning Management System for academic institutions and
+modern education. Features server-authoritative anti-cheat quizzes,
+90% video watch verification, SHA-256 verified PDF certificates, and
+separate Student, Instructor, and Admin workflows.
+</p>
+
+<p>
+<code>React 19</code>
+<code>TypeScript</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+</p>
+
+<a href="https://veyro-sandy.vercel.app">
+Live Demo →
+</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Keerthanreddy01/veyro">
+View Project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3>🧩 Squibl</h3>
@@ -118,54 +157,6 @@ high-impact projects without friction.
 </p>
 
 <a href="https://github.com/Keerthanreddy01/squibl">
-View Project →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🎙️ Vaani AI</h3>
-
-<p>
-Neural voice intelligence bridging linguistic gaps
-for 13+ Indian dialects with context-aware,
-ultra-low-latency AI.
-</p>
-
-<p>
-<code>FastAPI</code>
-<code>Claude AI</code>
-<code>Neural AI</code>
-</p>
-
-<a href="https://github.com/Keerthanreddy01/Vaani">
-View Project →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🌱 Greendot</h3>
-
-<p>
-Smart farm assistant empowering farmers with
-AI-driven disease detection and real-time
-market insights.
-</p>
-
-<p>
-<code>Flutter</code>
-<code>TensorFlow</code>
-<code>Google Sheets</code>
-</p>
-
-<a href="https://github.com/Keerthanreddy01/Greendot">
 View Project →
 </a>
 
@@ -195,7 +186,7 @@ AI projects and development work.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,fastapi,firebase,flutter,tensorflow,git,github,vercel&theme=dark">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,nodejs,express,mongodb,firebase,git,github,vercel&theme=dark">
 
 </p>
 
